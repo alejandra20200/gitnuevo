@@ -10,5 +10,8 @@ package guarderiacanina.Entidad;
  * @author Usuario
  */
 public class EntidadCanina {
+    private String nombre;
+   private int edad;
+   private String dueño;
     
 }
