@@ -13,6 +13,7 @@ public class EntidadCanina {
     private String nombre;
    private int edad;
    private String dueño;
+   String pais;
 
     public EntidadCanina(String nombre, int edad, String dueño) {
         this.nombre = nombre;
